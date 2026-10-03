@@ -1,0 +1,6 @@
+{
+  "name": "Velvet & Bean Roastery Café",
+  "description": "Artisanal coffee roastery and botanical café offering single-origin brews, fresh gourmet bakery pastries, table reservations, and handcrafted espresso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
